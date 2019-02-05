@@ -1,7 +1,1 @@
-This is text file
-fsfsdf
-sf
-sfs
-f
-sf
-s
+This is a test file
