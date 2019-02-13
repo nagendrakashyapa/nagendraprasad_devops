@@ -365,3 +365,8 @@ sudo su
 clear
 sudo su
 exit
+clear
+which git
+git --version
+clear
+sudo su
